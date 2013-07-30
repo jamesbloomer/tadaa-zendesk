@@ -1,0 +1,11 @@
+{
+	"zendesk tickets" : {
+		"name" : "tadaa-zendesk",
+		"options" : {
+			"host" : "HOST",
+			"email" : "my.login@example.com",
+			"password" : "mypassword",
+			"view" : "ZENDESK_VIEW"
+		}
+	}
+}
