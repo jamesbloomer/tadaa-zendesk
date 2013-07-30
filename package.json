@@ -14,7 +14,7 @@
         "type": "git",
         "url": "http://github.com/jamesbloomer/tadaa-zendesk.git" 
     },
-    "keywords": ["zendesk" "monitor", "sounds", "audio", "noises"],
+    "keywords": ["zendesk","monitor", "sounds", "audio", "noises"],
     "dependencies": {
         "buddha": "*"
     },
